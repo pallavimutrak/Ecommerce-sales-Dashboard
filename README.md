@@ -18,6 +18,7 @@ Key Insights:
 4. Detected categories with high sales but low profit margin.
 
 Screenshots:
+https://github.com/pallavimutrak/Ecommerce-sales-Dashboard
 
 
     
